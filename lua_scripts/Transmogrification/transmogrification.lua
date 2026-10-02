@@ -57,7 +57,7 @@
 -- ║ It is recommended to leave this option enabled as it leaves the        ║
 -- ║ class fantasy intact.                                                  ║
 -- ╟────────────────────────────────────────────────────────────────────────╢
-      local RESTRICT_WEAPON_TRANSMOG_TO_SIMILAR_WEAPONS = true            --║
+      local RESTRICT_WEAPON_TRANSMOG_TO_SIMILAR_WEAPONS = false            --║
 -- ╚════════════════════════════════════════════════════════════════════════╝
 
 local AIO = AIO or require("AIO")
